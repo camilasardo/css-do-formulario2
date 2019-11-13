@@ -11,3 +11,8 @@ h1
 {
     background-color: lightgreen
 }
+
+body
+{
+    background-image: url("../imagens/fundo.jpg");
+}
